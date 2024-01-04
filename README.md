@@ -1,6 +1,6 @@
 # Sportify
 
-Sportify, a vibrant sports equipment e-commerce hub, maximized user engagement by 20% through HTML and CSS enhancements. Node.js powers its backend, deftly managing 100 concurrent requests for swift responses. MongoDB's integration streamlined data, reducing catalog retrieval times by 30% and enhancing user data management. These strategic tech choices collectively bolster Sportify's efficiency and user satisfaction, solidifying its stance in the sports e-commerce sphere.
+Sportify one-stop-shop for all your fitness needs! Our e-commerce platform specializes in providing top-quality sport and gym equipment, stylish sportswear, trendy accessories, and authentic team jerseys for all sports enthusiasts and fitness aficionados.
 
 ## Technologies Used
 
@@ -10,6 +10,8 @@ The following technologies and tools were used to develop this project:
 - JavaScript
 - Typescript
 - Next.js
+- Node.js
+- Express.js
 - MongoDB
 - Stripe
 
@@ -49,11 +51,11 @@ To run Sportify locally, follow these steps:
 4. Set up the database.
 5. Run the application:
 
-```bash
-npm start
-```
+    ```bash
+    npm run dev
+    ```
 
-5. Open your web browser and navigate to `http://localhost:3000` to access the website.
+6. Open your web browser and navigate to `http://localhost:3000` to access the website.
 
 ## Contributing
 
@@ -62,21 +64,21 @@ Contributions to this projects are welcome! To contribute, follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
 
-```bash
-git checkout -b feature/your-feature-name
-```
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
 
 3. Make changes and commit them:
 
-```bash
-git commit -m "Add your commit message here"
-```
+    ```bash
+    git commit -m "Add your commit message here"
+    ```
 
 4. Push your changes to your branch:
 
-```bash
-git push origin feature/your-feature-name
-```
+    ```bash
+    git push origin feature/your-feature-name
+    ```
 
 5. Create a pull request on the main repository.
 
@@ -88,5 +90,4 @@ This website is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at therahman14@gmail.com. I'm excited to hear from you and make this project even better!
-
+If you have any questions or feedback, feel free to reach out to me at <therahman14@gmail.com>. I'm excited to hear from you and make this project even better!
