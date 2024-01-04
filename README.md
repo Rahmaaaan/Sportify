@@ -57,6 +57,11 @@ To run Sportify locally, follow these steps:
 
 6. Open your web browser and navigate to `http://localhost:3000` to access the website.
 
+### Screenshots
+
+![Homepage](./public/pictures/Homepage.png)
+![Login](./public/pictures/Register.png)
+
 ## Contributing
 
 Contributions to this projects are welcome! To contribute, follow these steps:
